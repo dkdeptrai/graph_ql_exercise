@@ -77,7 +77,7 @@ Variables:
 
 ```json
 {
-  "username": "Alice",
+  "id": "1",
   "description": "A frontend developer"
 }
 ```
